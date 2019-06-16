@@ -4,5 +4,6 @@ red
 blue
 green
 violet
+gold
 
 initial colors of a rainbow....
