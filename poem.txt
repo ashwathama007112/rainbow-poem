@@ -3,5 +3,6 @@ yellow
 red
 blue
 green
+violet
 
 initial colors of a rainbow....
