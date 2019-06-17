@@ -8,5 +8,6 @@ gold
 unicorn::white
 
 pony:blue red white
+ohh sry pony u have  nothing similar to unicorn
 
 initial colors of a rainbow....
