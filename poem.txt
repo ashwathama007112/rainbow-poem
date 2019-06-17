@@ -1,4 +1,4 @@
-here is the rainbow:
+here is the rainbow:along with ponies
 yellow
 red
 blue
@@ -6,5 +6,8 @@ green
 violet
 gold
 unicorn::white
+
+pony:blue red white
+ohh sry pony u have  nothing similar to unicorn
 
 initial colors of a rainbow....
